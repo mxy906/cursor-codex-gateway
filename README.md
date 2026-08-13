@@ -108,6 +108,10 @@ npm test                 # unit tests, no Cursor account needed
 npm run smoke:messages   # against a running gateway; costs Cursor usage
 ```
 
+## Contact
+
+Issues: [GitHub Issues](https://github.com/mxy906/cursor-codex-gateway/issues). WeChat: **mxy0544**.
+
 ## Credits
 
 Based on [pwnapplehat/Cursor-OpenAI](https://github.com/pwnapplehat/Cursor-OpenAI). Original dashboard, CLI, session manager, and Agent SDK integration are theirs. Codex `/v1/responses` and Claude Code `/v1/messages` were added in this repository.
